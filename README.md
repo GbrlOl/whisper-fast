@@ -9,3 +9,5 @@ Whisper es un modelo speech-to-text, es decir, que permite convertir de audio a 
 | Audio [hrs] | Inferencia | Consumo GPU |
 |:-:|:-:|:-:|
 |01:19:52| 2 minutos 🤯| 8 GB |
+
+* `Nota: La transcripción donde el audio está en inglés y quiero traducir al español, tiene errores ya que no traduce al español y transcribe en inglés en algunos pasos de tiempo 😡`
